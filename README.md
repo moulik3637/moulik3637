@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Moulik 👋
 
-<!--
-**moulik3637/moulik3637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+🤖 AI & Data Science Enthusiast
+🌱 Learning Deep Learning, MLOps, and Big Data
+💻 Building AI-powered web applications
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- C/C++
+- SQL
+- PyTorch
+- FastAPI
+- Flask
+- Docker
+- Hadoop
+- Spark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### PotatoScan-AI
+AI-powered potato leaf disease detection system using CNN and FastAPI.
+
+### College Club Manager
+Role-based college club management platform built with Flask and PostgreSQL.
+
+## Connect With Me
+- LinkedIn: ...
+- Email: ...
