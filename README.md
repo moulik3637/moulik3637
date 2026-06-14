@@ -1,43 +1,43 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Moulik%20Dotasara&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%E2%80%82%7C%E2%80%82NIT%20Delhi&descAlignY=55&descSize=18&animation=fadeIn"/>
+<!-- HEADER BANNER - no special chars in URL -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Moulik+Dotasara&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI+and+Data+Science+%7C+NIT+Delhi&descAlignY=55&descSize=18&animation=fadeIn"/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://github.com/moulik3637"><img src="https://img.shields.io/badge/GitHub-moulik3637-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- BADGES -->
+<a href="https://github.com/moulik3637">
+  <img src="https://img.shields.io/badge/GitHub-moulik3637-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/NIT%20Delhi-AI%20%26%20DS-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/NIT%20Delhi-AI%20and%20DS-6C63FF?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/CGPA-7.48-00D4AA?style=for-the-badge"/>
 
 <br/><br/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+CNNs+that+actually+work+%F0%9F%A7%A0;FastAPI+%2B+PyTorch+%2B+too+much+caffeine+%E2%98%95;Computer+Vision+%7C+ML+%7C+Full+Stack;99.57%25+accuracy+on+potato+disease+detection+%F0%9F%A5%94)](https://git.io/typing-svg)
+<!-- TYPING SVG - short lines to avoid cutoff -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+CNNs+that+actually+work;FastAPI+%2B+PyTorch+%2B+too+much+caffeine;Computer+Vision+%7C+ML+%7C+Full+Stack;99.57%25+accuracy+on+potato+disease)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ABOUT -->
 ## `> whoami`
 
 ```python
 moulik = {
     "name"      : "Moulik Dotasara",
     "pronouns"  : "he/him",
-    "location"  : "Kota, Rajasthan → NIT Delhi",
+    "location"  : "Kota, Rajasthan -> NIT Delhi",
     "year"      : "2nd Year B.Tech",
-    "branch"    : "Artificial Intelligence & Data Science",
+    "branch"    : "Artificial Intelligence and Data Science",
     "cgpa"      : 7.48,
     "currently" : ["training models", "managing IEEE conference site", "surviving sem"],
-    "fun_fact"  : "I once trained a CNN for 6 hours to detect potato diseases. No regrets.",
+    "fun_fact"  : "Trained a CNN for hours to detect potato diseases. No regrets.",
 }
 ```
 
 ---
 
-<!-- PROJECTS -->
 ## `> ls ~/projects`
 
 <table>
@@ -47,18 +47,18 @@ moulik = {
 ### 🥔 PotatoScan AI
 > *Computer Vision · FastAPI · AWS Bedrock*
 
-Custom **6-block residual CNN** trained from scratch in PyTorch on a merged dataset of ~9,280 PlantVillage + PlantDoc images. Three disease classes.
+Custom **6-block residual CNN** trained from scratch in PyTorch on ~9,280 merged PlantVillage + PlantDoc images across 3 disease classes.
 
-- 🎯 **99.57% test accuracy** with TTA×5
+- 🎯 **99.57% test accuracy** with TTA x5
 - 🌡️ Temperature calibration (T=1.5)
 - 💬 Multi-turn chat via Amazon Bedrock (Claude Opus)
-- 🚀 Deployed on HuggingFace Spaces (port 7860)
+- 🚀 Deployed on HuggingFace Spaces
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-**[→ Live Demo](https://itzgeek-potato-leaf-prediction.hf.space)** &nbsp;|&nbsp; **[→ Repo](https://github.com/moulik3637/PotatoScan-AI)**
+**[Live Demo](https://itzgeek-potato-leaf-prediction.hf.space)** &nbsp;|&nbsp; **[Repo](https://github.com/moulik3637/PotatoScan-AI)**
 
 </td>
 <td valign="top" width="50%">
@@ -69,7 +69,7 @@ Custom **6-block residual CNN** trained from scratch in PyTorch on a merged data
 Web app that streamlines college club management and student engagement. Full role-based access system — students build profiles, clubs recruit by skills.
 
 - 🔑 Role-based auth (student / admin / club lead)
-- 🎯 Skill-based matching for club recruitment
+- 🎯 Skill-based matching for recruitment
 - 🗄️ PostgreSQL + SQLAlchemy ORM
 - 🌐 Clean HTML/CSS frontend
 
@@ -77,7 +77,7 @@ Web app that streamlines college club management and student engagement. Full ro
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**[→ Repo](https://github.com/moulik3637/College-Club-Manager)**
+**[Repo](https://github.com/moulik3637/College-Club-Manager)**
 
 </td>
 </tr>
@@ -85,20 +85,20 @@ Web app that streamlines college club management and student engagement. Full ro
 <td valign="top" width="50%">
 
 ### 🌐 ICECSP 2026 Website
-> *HTML/CSS/JS · Netlify · SEO*
+> *HTML/CSS/JS · Netlify · IEEE Conference*
 
-Official website for **ICECSP 2026**, an IEEE conference organized by NIT Delhi. Built and managing end-to-end — from deployment to Google Search Console.
+Official website for **ICECSP 2026**, an IEEE conference at NIT Delhi. Managing end-to-end — deployment, SEO, Google Search Console.
 
-- ⚡ Netlify deployment + GoDaddy domain
-- 🔍 SEO optimized (JSON-LD, Open Graph, sitemaps)
+- ⚡ Netlify + GoDaddy domain
+- 🔍 SEO: JSON-LD, Open Graph, sitemaps
 - 💳 Razorpay payment integration
 - 📸 WebP image optimization
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE_Conference-00629B?style=flat-square&logo=ieee&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE_Conference-00629B?style=flat-square&logoColor=white)
 
-**[→ Live Site](https://icecsp2026.org.in)**
+**[Live Site](https://icecsp2026.org.in)**
 
 </td>
 <td valign="top" width="50%">
@@ -106,14 +106,14 @@ Official website for **ICECSP 2026**, an IEEE conference organized by NIT Delhi.
 ### 🏆 Flipkart Gridlock 2.0
 > *LightGBM · Feature Engineering · HackerEarth*
 
-Traffic demand prediction challenge — ML leaderboard, Phase 1. Built a LightGBM pipeline with geo-hour mean features derived from training data.
+Traffic demand prediction challenge — ML leaderboard, Phase 1. LightGBM pipeline with geo-hour mean features.
 
-- 📈 Pseudo-validation **R² ≈ 0.9882**
+- 📈 Pseudo-validation **R2 = 0.9882**
 - 🗺️ Geo-spatial feature engineering
 - ⚙️ LightGBM with careful hypertuning
 - 🧪 Robust cross-validation setup
 
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
@@ -125,7 +125,6 @@ Traffic demand prediction challenge — ML leaderboard, Phase 1. Built a LightGB
 
 ---
 
-<!-- TECH STACK -->
 ## `> cat tech_stack.json`
 
 <div align="center">
@@ -147,7 +146,7 @@ Traffic demand prediction challenge — ML leaderboard, Phase 1. Built a LightGB
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Backend & DevOps**
+**Backend and DevOps**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -166,7 +165,6 @@ Traffic demand prediction challenge — ML leaderboard, Phase 1. Built a LightGB
 
 ---
 
-<!-- STATS -->
 ## `> git log --stat`
 
 <div align="center">
@@ -182,11 +180,10 @@ Traffic demand prediction challenge — ML leaderboard, Phase 1. Built a LightGB
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-*NIT Delhi · AI & DS · 2nd Year · he/him*
+*NIT Delhi · AI and DS · 2nd Year · he/him*
 
 </div>
