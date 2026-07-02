@@ -1,45 +1,142 @@
+
 <div align="center">
 
-# Hey, I'm Moulik 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Moulik+Dotasara&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Building+things+with+AI+and+Code&descAlignY=55&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+matter.;Machine+Learning+%7C+Computer+Vision.;Learning.+Building.+Improving." />
+<a href="https://github.com/moulik3637">
+<img src="https://img.shields.io/badge/GitHub-moulik3637-181717?style=for-the-badge&logo=github"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/NIT_Delhi-AI_&_DS-6C63FF?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-> *"The best way to learn is to build."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+software+that+solves+problems.;Machine+Learning+%7C+Computer+Vision.;Learning+by+building.;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## `> whoami`
 
-I'm passionate about creating projects that solve real problems through code. Most of what you'll find here comes from curiosity, experimentation, and a lot of trial and error.
+```python
+moulik = {
+    "role": "AI & Data Science Student",
+    "interests": [
+        "Machine Learning",
+        "Computer Vision",
+        "Backend Development",
+        "Open Source"
+    ],
+    "currently": "Building projects and learning something new every day.",
+    "philosophy": "Learn → Build → Improve"
+}
+```
 
 ---
 
-## 📌 Featured
+## `> ls ~/projects`
 
-🟢 **PotatoScan-AI**  
-A deep learning project for potato leaf disease detection.
+<table>
+<tr>
 
-🟢 More projects are always in progress...
+<td width="50%" valign="top">
+
+### 🥔 PotatoScan AI
+
+Deep-learning powered potato leaf disease detection built with **PyTorch**, **FastAPI** and deployed on **Hugging Face**.
+
+- Custom CNN
+- Temperature calibration
+- AI chatbot integration
+- Real-world agriculture use case
+
+**Repo:** https://github.com/moulik3637/PotatoScan-AI
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏫 College Club Manager
+
+A role-based club management platform built using **Flask** and **PostgreSQL**.
+
+- Student & Admin roles
+- Skill-based recruitment
+- SQLAlchemy ORM
+- Clean web interface
+
+**Repo:** https://github.com/moulik3637/College-Club-Manager
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚧 Currently Building
+
+Every repository starts with an idea.
+
+Something interesting is always under construction.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 Philosophy
+
+> Build.
+>
+> Break.
+>
+> Learn.
+>
+> Repeat.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📊 GitHub
+## `> toolbox`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moulik3637&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Languages**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulik3637&layout=compact&theme=tokyonight&hide_border=true"/>
+Python • C++ • SQL • HTML • CSS • JavaScript
+
+**AI / ML**
+
+PyTorch • OpenCV • Scikit-Learn • NumPy • Pandas
+
+**Backend**
+
+Flask • FastAPI • PostgreSQL
+
+**Tools**
+
+Git • GitHub • Linux • Docker
 
 </div>
 
-<br>
+---
+
+## `> github --stats`
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moulik3637&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulik3637&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=moulik3637&theme=tokyonight&hide_border=true"/>
 
@@ -47,26 +144,23 @@ A deep learning project for potato leaf disease detection.
 
 ---
 
-## 🌐 Connect
+## `> echo $STATUS`
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/moulik-dotasara">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:reachoutmoulik@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+```text
+Building.
+Learning.
+Shipping.
+Repeating.
+```
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=moulik3637&style=for-the-badge&color=blue"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+### Thanks for visiting 👋
+
+*"Every commit is a step forward."*
 
 </div>
