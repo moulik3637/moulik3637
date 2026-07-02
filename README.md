@@ -1,104 +1,124 @@
-<h1 align="center">Hi 👋, I'm Moulik Dotasara</h1>
-<h3 align="center">B.Tech AI & Data Science @ NIT Delhi | ML & CV Enthusiast 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;Computer+Vision+Explorer;Building+AI+Projects;Always+Learning+Something+New" />
-</p>
+# 👋 Hey, I'm Moulik
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+things+that+learn.;Turning+ideas+into+projects.;Debug.+Train.+Repeat.;Always+working+on+something+interesting." />
 
-### 🧠 About Me
+<br>
 
-* 🎓 B.Tech in Artificial Intelligence & Data Science @ **NIT Delhi**
-* 🤖 Passionate about **Machine Learning, Computer Vision & Data Science**
-* 🚀 Built projects like **Leaf Disease Prediction System**
-* 📈 Love turning **data → insights → real-world solutions**
-* 🎯 Currently looking for **Internships / Research Opportunities**
+> *"Curiosity writes the first line of code."*
+
+</div>
 
 ---
 
-### ⚙️ Tech Stack
-
-**Languages**
-
-```
-C | C++ | Python | SQL
-```
-
-**AI / ML**
-
-```
-PyTorch | Scikit-Learn | NumPy | Pandas | OpenCV
-```
-
-**Web Development**
-
-```
-HTML | CSS | JavaScript | Flask | FastAPI
-```
-
-**Tools & Technologies**
-
-```
-Git | GitHub | Linux | Docker
-```
-
-**Big Data**
-
-```
-Hadoop | Hive | HBase | Spark | Impala
+```text
+~/moulik
+│
+├── 🧠 interests/
+│   ├── Machine Learning
+│   ├── Computer Vision
+│   ├── Deep Learning
+│   ├── Data Science
+│   └── Competitive Programming
+│
+├── 🚧 currently/
+│   ├── Solving LeetCode
+│   ├── Building AI Projects
+│   └── Learning something new every day
+│
+└── ☕ status
+    └── probably debugging...
 ```
 
 ---
 
-### 🚀 Projects
+# Projects Worth Opening
 
-🔬 **PotatoScan-AI (Leaf Disease Detection)**
+<table>
+<tr>
+<td width="50%">
 
-* CNN-based model for plant disease classification
-* Deployed using Flask + Hugging Face
-* Real-world agriculture use-case
+### 🥔 PotatoScan AI
 
-🌐 More coming soon...
+A CNN-powered project that identifies potato leaf diseases from images.
 
----
+→ Built for real-world agriculture.
 
-### 📊 GitHub Stats
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moulik3637&show_icons=true&theme=tokyonight" />
-</p>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moulik3637&theme=tokyonight" />
-</p>
+### 🚀 Next Project
 
----
+Something interesting is always under construction.
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moulik3637&theme=tokyo-night" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Connect with Me
+# GitHub Universe
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/moulik-dotasara">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moulik3637&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulik3637&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=moulik3637&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 
 ---
 
-### ✨ Fun Quote
+# Contribution Graph
 
-> "Building AI that actually solves real problems > just training models."
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moulik3637&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moulik3637&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# 2026 Side Quests
+
+* ☐ 500+ LeetCode problems
+* ☐ Build more end-to-end AI projects
+* ☐ Explore Transformers & LLMs
+* ☐ Make meaningful Open Source contributions
+* ☐ Never stop learning
+
+---
+
+# Random Dev Quote
+
+> **"Every commit tells a story. Make yours worth reading."**
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=moulik3637&style=for-the-badge&color=blue"/>
+
+<br><br>
+
+### Thanks for dropping by 👋
+
+⭐ If you like something here, feel free to explore the repositories.
+
+</div>
