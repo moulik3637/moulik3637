@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Moulik</h1>
 <h3 align="center">B.Tech AI & Data Science @ NIT Delhi | ML · Deep Learning · Full-Stack</h3>
 
+
 <p align="center">
-  <a href="https://github.com/moulik3637" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:reachoutmoulik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://huggingface.co/moulik3637" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://huggingface.co/ItzMoulik" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**, **NIT Delhi** (CGPA: 7.48)
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**, **NIT Delhi**
 - 🥔 Built **PotatoScan AI** — a custom 6-block residual CNN (99.57% test accuracy, 98% confidence threshold, 100% precision) deployed on **HuggingFace Spaces** with FastAPI + Amazon Bedrock chat integration
-- 🌐 Developed and deployed the **ICECSP 2026 IEEE Conference Website** ([icecsp2026.org.in](https://icecsp2026.org.in)) on Netlify
 - 🏆 Competed in Kaggle Playground Series (Stellar Class prediction) — LightGBM + XGBoost + CatBoost stacking, 0.96586 leaderboard score
 - 🌱 Interests: Deep Learning, Computer Vision, ML Competitions, Web Dev, AI-powered apps
 - 💬 Ask me about: PyTorch, CNNs, FastAPI, Flask, scikit-learn, full-stack AI deployment
